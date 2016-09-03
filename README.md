@@ -1,2 +1,2 @@
-# DnD-React-CMS
-Simply drag &amp; drop react components to build content management system.
+# React-DnD-Realtime-CMS
+Simply realtime drag & drop React components to build Content Management System.
